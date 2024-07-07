@@ -2,7 +2,7 @@
   <img src="https://graph.org/file/fd4c3ba434b8228b4501c.jpg" alt="Mr Leo Das Logo">
 </p>
 <h1 align="center">
-  <a href="https://t.me/ItachiUchiha_Filter_Bot">ItachiUchiha Filter Bot</a>
+  <a href="https://t.me/KuttyFilter_Bot">Kutty Filter Bot</a>
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+THE-MOVIE-PROVIDER-BOT;A+SIMPLE+AND+POWERFUL+BOT!;A+BOT+WITH+CUSTOM+URL+SHORTNER;AND+CUSTOM+TUTORIAL!;ALSO+HAVE+STREAM+ONLINE;AND+FAST+DOWNLOAD+FEATURE!;AND+MANY+MORE+FEATURES!)
